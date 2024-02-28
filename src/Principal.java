@@ -12,7 +12,7 @@ public class Principal {
 
         Bubblesort ordenar_notas = new Bubblesort();
         ordenar_notas.NotaDescendente(notas);
-        los nombres serviran como referencia
+        //los nombres serviran como referencia
         /* ArrayList nombres = doc.GetNombres();
         System.out.println("Estudiantes"+nombres);
         
