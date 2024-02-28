@@ -13,7 +13,7 @@ public class Principal {
         Bubblesort ordenar_notas = new Bubblesort();
         ordenar_notas.NotaDescendente(notas);
         //los nombres serviran como referencia
-        /* ArrayList nombres = doc.GetNombres();
+        ArrayList nombres = doc.GetNombres();
         System.out.println("Estudiantes"+nombres);
         
         ArrayList grados = doc.GetGrados();
@@ -28,7 +28,7 @@ public class Principal {
         System.out.println("Pesos"+pesos);
 
         ArrayList statura = doc.GetEstatura();
-        System.out.println("Estatura"+statura); */
+        System.out.println("Estatura"+statura);
     }
     
 }
